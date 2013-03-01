@@ -1,0 +1,4 @@
+puppet-adium
+============
+
+puppet-adium
