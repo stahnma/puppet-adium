@@ -1,4 +1,17 @@
-puppet-adium
-============
+# Adium Puppet Module for Boxen
 
-puppet-adium
+## Usage
+
+```puppet
+include adium 
+```
+
+## Required Puppet Modules
+
+None.
+
+## Developing
+
+Write code.
+
+Run `script/cibuild`.
